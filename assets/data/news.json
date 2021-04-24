@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Prix du meilleur plan - maroc",
+        "imgSrc": "assets/bg/2.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulv.",
+        "postedDate": "Mardi, 25 Avril 2021"
+    },
+    {
+        "id": 2,
+        "title": "Prix du meilleur plan - maroc",
+        "imgSrc": "assets/bg/2.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulv.",
+        "postedDate": "Mardi, 25 Avril 2021"
+    },
+    {
+        "id": 3,
+        "title": "Interview Faso.net",
+        "imgSrc": "assets/bg/2.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulv.",
+        "postedDate": "Mardi, 2 Février 2021"
+    }
+]
