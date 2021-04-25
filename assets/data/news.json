@@ -1,23 +1,26 @@
 [
     {
         "id": 1,
-        "title": "Prix du meilleur plan - maroc",
-        "imgSrc": "assets/bg/2.jpg",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulv.",
-        "postedDate": "Mardi, 25 Avril 2021"
+        "title": "Prix du meilleur plan d'Architecte - Maroc",
+        "imgSrc": "assets/news/1.jpg",
+        "description": "S.A.N.A Architects est lauréat du concours d'architecture pour la construction l'école nationales d'architecture de Marrakech au Maroc.",
+        "postedDate": "Mardi, 25 Avril 2021",
+        "url": "https://lefaso.net/spip.php?article91900"
     },
     {
         "id": 2,
-        "title": "Prix du meilleur plan - maroc",
-        "imgSrc": "assets/bg/2.jpg",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulv.",
-        "postedDate": "Mardi, 25 Avril 2021"
+        "title": "Que deviendra l’aéroport actuel après sa délocalisation à Donsin?",
+        "imgSrc": "assets/news/2.jpg",
+        "description": "S.A.N.A Architects réponds au Faso.net et donne son avis.",
+        "postedDate": "Samedi, 10 Avril 2021",
+        "url": "https://lefaso.net/spip.php?article103904"
     },
     {
         "id": 3,
-        "title": "Interview Faso.net",
-        "imgSrc": "assets/bg/2.jpg",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulv.",
-        "postedDate": "Mardi, 2 Février 2021"
+        "title": "Notre système éducatif a besoin d’une profonde reforme",
+        "imgSrc": "assets/news/3.jpg",
+        "description": "Faire de l'architecture, c'est aussi être à l'écoute des problèmes de la société, le PDG de S.A.N.A Architects donne son avis sur le Faso.net.",
+        "postedDate": "Jeudi, 24 Septembre 2020",
+        "url": "https://lefaso.net/spip.php?article99516"
     }
 ]

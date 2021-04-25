@@ -1,22 +1,22 @@
 [    
     {
         "id": 1,
-        "name": "Complexe scolaire, Particulier",
+        "name": "Projet de construction d'un complexe scolaire à Loumbila",
         "category": "Architecture",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar.",
-        "imgSrc1": "assets/projects/1/2.jpg",
-        "imgSrc2": "assets/projects/1/3.jpg",
-        "otherImgSrc": ["assets/projects/1/1.jpg", "assets/projects/1/4.jpg", "assets/projects/1/5.jpg", "assets/projects/1/6.jpg"],
-        "specs": {"type": "Complexe scolaire", "owner": "Privé", "client": "Particulier", "area": "300", "location": "Ouagadougou"}
+        "description": "École primaire, Collège, lycée, dortoirs, Réfectoire, foyer feminin,Gymnase, terrain de football réglementaire.",
+        "imgSrc1": "assets/projects/1/3.png",
+        "imgSrc2": "assets/projects/1/6.png",
+        "otherImgSrc": ["assets/projects/1/1.png", "assets/projects/1/2.png", "assets/projects/1/3.png", "assets/projects/1/4.png", "assets/projects/1/5.png", "assets/projects/1/6.png"],
+        "specs": {"type": "Complexe scolaire", "owner": "Privé", "client": "Particulier", "area": "3000", "location": "Ouagadougou"}
     },
     {
         "id": 2,
         "name": "Hotel à Dédougou",
         "category": "Architecture",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar.",
-        "imgSrc1": "assets/projects/2/1.jpg",
-        "imgSrc2": "assets/projects/2/2.jpg",
-        "otherImgSrc": ["assets/projects/2/2.jpg", "assets/projects/2/2.jpg"],
+        "imgSrc1": "assets/projects/2/1.png",
+        "imgSrc2": "assets/projects/2/2.png",
+        "otherImgSrc": ["assets/projects/2/1.png", "assets/projects/2/2.png"],
         "specs": {"type": "F4", "owner": "Privé", "client": "Particulier", "area": "300", "location": "Dédougou"}
     },
     {
@@ -24,9 +24,9 @@
         "name": "Villa Compaoré Final",
         "category": "Architecture",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar.",
-        "imgSrc1": "assets/projects/3/3.jpg",
-        "imgSrc2": "assets/projects/3/1.jpg",
-        "otherImgSrc": ["assets/projects/3/2.jpg", "assets/projects/3/4.jpg", "assets/projects/3/5.jpg", "assets/projects/3/6.jpg", "assets/projects/3/7.jpg", "assets/projects/3/8.jpg"],
+        "imgSrc1": "assets/projects/3/3.png",
+        "imgSrc2": "assets/projects/3/1.png",
+        "otherImgSrc": ["assets/projects/3/2.png", "assets/projects/3/4.png", "assets/projects/3/5.png", "assets/projects/3/6.png", "assets/projects/3/7.png", "assets/projects/3/8.png", "assets/projects/3/9.png", "assets/projects/3/10.png", "assets/projects/3/11.png"],
         "specs": {"type": "F4", "owner": "Privé", "client": "Particulier", "area": "300", "location": "Dédougou"}
     },
     {
@@ -34,9 +34,9 @@
         "name": "OAB Perspective final",
         "category": "Architecture",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar.",
-        "imgSrc1": "assets/projects/4/1.jpg",
-        "imgSrc2": "assets/projects/4/2.jpg",
-        "otherImgSrc": ["assets/projects/4/1.jpg", "assets/projects/4/2.jpg"],
+        "imgSrc1": "assets/projects/4/1.png",
+        "imgSrc2": "assets/projects/4/2.png",
+        "otherImgSrc": ["assets/projects/4/2.png", "assets/projects/4/3.png"],
         "specs": {"type": "F4", "owner": "Privé", "client": "Particulier", "area": "300", "location": "Dédougou"}
     },
     {
@@ -44,59 +44,79 @@
         "name": "Villa Ben Idriss, Particulier",
         "category": "Architecture",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar.",
-        "imgSrc1": "assets/projects/5/1.jpg",
-        "imgSrc2": "assets/projects/5/2.jpg",
-        "otherImgSrc": ["assets/projects/5/1.jpg", "assets/projects/5/2.jpg"],
+        "imgSrc1": "assets/projects/5/1.png",
+        "imgSrc2": "assets/projects/5/2.png",
+        "otherImgSrc": ["assets/projects/5/2.png", "assets/projects/5/3.png"],
         "specs": {"type": "F4", "owner": "Privé", "client": "Particulier", "area": "300", "location": "Ouaga 2000"}
     },
     {
         "id": 6,
-        "name": "M.Ouédraogo",
+        "name": "Indian Culture Center",
         "category": "Architecture",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar.",
-        "imgSrc1": "assets/projects/6/1.jpg",
-        "imgSrc2": "assets/projects/6/1.jpg",
-        "otherImgSrc": ["assets/projects/6/1.jpg", "assets/projects/6/1.jpg"],
-        "specs": {"type": "F4", "owner": "Privé", "client": "Particulier", "area": "300", "location": "Dédougou"}
+        "imgSrc1": "assets/projects/6/1.png",
+        "imgSrc2": "assets/projects/6/2.png",
+        "otherImgSrc": ["assets/projects/6/2.png", "assets/projects/6/3.png", "assets/projects/6/4.png"],
+        "specs": {"type": "Culture Center", "owner": "Privé", "client": "Particulier", "area": "300", "location": "Dédougou"}
     },
     {
         "id": 7,
-        "name": "Interior 2IES",
+        "name": "Ecole d'agriculture de Témara, Maroc",
         "category": "Architecture",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar.",
-        "imgSrc1": "assets/projects/7/1.jpg",
-        "imgSrc2": "assets/projects/7/2.jpg",
-        "otherImgSrc": ["assets/projects/7/1.jpg", "assets/projects/7/2.jpg"],
-        "specs": {"type": "Interior", "owner": "Privé", "client": "Particulier", "area": "300", "location": "Dédougou"}
+        "imgSrc1": "assets/projects/7/1.png",
+        "imgSrc2": "assets/projects/7/2.png",
+        "otherImgSrc": ["assets/projects/7/2.png", "assets/projects/7/3.png", "assets/projects/7/4.png", "assets/projects/7/5.png", "assets/projects/7/6.png"],
+        "specs": {"type": "F4", "owner": "Privé", "client": "Particulier", "area": "300", "location": "Dédougou"}
     },
     {
         "id": 8,
-        "name": "Villa Niaoné",
+        "name": "Eglise Gampéla",
         "category": "Architecture",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar.",
-        "imgSrc1": "assets/projects/8/1.jpg",
-        "imgSrc2": "assets/projects/8/1.jpg",
-        "otherImgSrc": ["assets/projects/8/1.jpg", "assets/projects/8/1.jpg"],
-        "specs": {"type": "Villas Jumélées", "owner": "Privé", "client": "Particulier", "area": "300", "location": "Dédougou"}
+        "imgSrc1": "assets/projects/8/1.png",
+        "imgSrc2": "assets/projects/8/2.png",
+        "otherImgSrc": ["assets/projects/8/1.png", "assets/projects/8/2.png"],
+        "specs": {"type": "Eglise", "owner": "Privé", "client": "Particulier", "area": "300", "location": "Dédougou"}
     },
     {
         "id": 9,
-        "name": "Interior startup",
-        "category": "Design intérieur",
+        "name": "Mr Ouédraogo, Particulier",
+        "category": "Architecture",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar.",
-        "imgSrc1": "assets/projects/9/1.jpg",
-        "imgSrc2": "assets/projects/9/1.jpg",
-        "otherImgSrc": ["assets/projects/9/1.jpg", "assets/projects/9/1.jpg"],
-        "specs": {"type": "Interior", "owner": "Privé", "client": "Particulier", "area": "300", "location": "Dédougou"}
+        "imgSrc1": "assets/projects/9/1.png",
+        "imgSrc2": "assets/projects/9/1.png",
+        "otherImgSrc": ["assets/projects/9/1.png", "assets/projects/9/1.png"],
+        "specs": {"type": "F4", "owner": "Privé", "client": "Particulier", "area": "300", "location": "Ouaga 2000"}
     },
     {
         "id": 10,
+        "name": "Niaoné Villa",
+        "category": "Architecture",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar.",
+        "imgSrc1": "assets/projects/10/1.png",
+        "imgSrc2": "assets/projects/10/1.png",
+        "otherImgSrc": ["assets/projects/10/1.png", "assets/projects/10/1.png"],
+        "specs": {"type": "Architecture", "owner": "Privé", "client": "Particulier", "area": "300", "location": "Dédougou"}
+    },
+    {
+        "id": 11,
         "name": "Interior Naaba koom",
         "category": "Design intérieur",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar.",
-        "imgSrc1": "assets/projects/10/1.jpg",
-        "imgSrc2": "assets/projects/10/1.jpg",
-        "otherImgSrc": ["assets/projects/10/1.jpg", "assets/projects/10/1.jpg"],
+        "imgSrc1": "assets/projects/11/1.png",
+        "imgSrc2": "assets/projects/11/1.png",
+        "otherImgSrc": ["assets/projects/11/1.png", "assets/projects/11/1.png"],
         "specs": {"type": "Interior", "owner": "Privé", "client": "Particulier", "area": "300", "location": "Dédougou"}
+    },
+    {
+        "id": 12,
+        "name": "Desgin Market, Taip Said",
+        "category": "Design intérieur",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar.",
+        "imgSrc1": "assets/projects/12/1.png",
+        "imgSrc2": "assets/projects/12/1.png",
+        "otherImgSrc": ["assets/projects/12/1.png", "assets/projects/12/1.png"],
+        "specs": {"type": "Interior", "owner": "Privé", "client": "Particulier", "area": "300", "location": "Maroc"}
     }
 ]
