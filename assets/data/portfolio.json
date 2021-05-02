@@ -3,120 +3,130 @@
         "id": 1,
         "name": "Projet de construction d'un complexe scolaire à Loumbila",
         "category": "Architecture",
-        "description": "École primaire, Collège, lycée, dortoirs, Réfectoire, foyer feminin,Gymnase, terrain de football réglementaire.",
+        "description": "Complexe scolaire Wendbenedo est un grand complexe composé d'une école primaire, un collège, un lycée, des dortoirs, un refectoire, un gymnase, une crèche et un terrain de foot de dimension reglementaire. Exclusivement feminin, il vise à rehausser le niveau de l'éducation dans la region du centre",
         "imgSrc1": "assets/projects/1/3.png",
         "imgSrc2": "assets/projects/1/6.png",
         "otherImgSrc": ["assets/projects/1/1.png", "assets/projects/1/2.png", "assets/projects/1/3.png", "assets/projects/1/4.png", "assets/projects/1/5.png", "assets/projects/1/6.png"],
-        "specs": {"type": "Complexe scolaire", "owner": "Privé", "client": "Particulier", "area": "3000", "location": "Ouagadougou"}
+        "specs": {"type": "Complexe scolaire", "owner": "Privé", "client": "Particulier", "area": "6ha", "location": "Loumbila"}
     },
     {
         "id": 2,
-        "name": "Hotel à Dédougou",
+        "name": "Hotel le Tangelo",
         "category": "Architecture",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar.",
+        "description": "L'hôtel le Tangelo est un hôtel situé à Dédougou qui aspire à offrir des espaces d'accueil conviviaux et écologiques aux habitants et visiteurs de cette belle cité. Ses études sont jours en cours mais la date de livraison est prévue pour fin 2023.",
         "imgSrc1": "assets/projects/2/1.png",
         "imgSrc2": "assets/projects/2/2.png",
-        "otherImgSrc": ["assets/projects/2/1.png", "assets/projects/2/2.png"],
-        "specs": {"type": "F4", "owner": "Privé", "client": "Particulier", "area": "300", "location": "Dédougou"}
+        "otherImgSrc": ["assets/projects/2/1.png", "assets/projects/2/2.png", "assets/projects/2/2.png"],
+        "specs": {"type": "Hotel", "owner": "Privé", "client": "Particulier", "area": "1000m²", "location": "Dédougou"}
     },
     {
         "id": 3,
-        "name": "Villa Compaoré Final",
+        "name": "Villa pour particulier",
         "category": "Architecture",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar.",
+        "description": "Villa luxueuse située à Ouaga 2000 dans la capitale du Burkina. Son design resolument contemporain et ses materiaux locaux font de lui un pur produit du terroir.",
         "imgSrc1": "assets/projects/3/3.png",
         "imgSrc2": "assets/projects/3/1.png",
         "otherImgSrc": ["assets/projects/3/2.png", "assets/projects/3/4.png", "assets/projects/3/5.png", "assets/projects/3/6.png", "assets/projects/3/7.png", "assets/projects/3/8.png", "assets/projects/3/9.png", "assets/projects/3/10.png", "assets/projects/3/11.png"],
-        "specs": {"type": "F4", "owner": "Privé", "client": "Particulier", "area": "300", "location": "Dédougou"}
+        "specs": {"type": "Villa", "owner": "Privé", "client": "Particulier", "area": "300m²", "location": "Ouagadougou"}
     },
     {
         "id": 4,
-        "name": "OAB Perspective final",
-        "category": "Architecture",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar.",
+        "name": "Siège de l'OAB",
+        "category": "Concours",
+        "description": "Ceci a été notre proposition lors du concours d'idée pour la réalisation du siège de l'ordre des Architectes du Burkina Faos (OAB). Proposition classée 3ème.",
         "imgSrc1": "assets/projects/4/1.png",
         "imgSrc2": "assets/projects/4/2.png",
-        "otherImgSrc": ["assets/projects/4/2.png", "assets/projects/4/3.png"],
-        "specs": {"type": "F4", "owner": "Privé", "client": "Particulier", "area": "300", "location": "Dédougou"}
+        "otherImgSrc": ["assets/projects/4/2.png", "assets/projects/4/3.png", "assets/projects/4/3.png"],
+        "specs": {"type": "Administration", "owner": "Privé", "client": "Particulier", "area": "300m²", "location": "Ouagadougou"}
     },
     {
         "id": 5,
-        "name": "Villa Ben Idriss, Particulier",
+        "name": "Villa pour particulier",
         "category": "Architecture",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar.",
+        "description": "C'est une Villa de type moderne honorant les matériaux locaux au grand bonheur de son propriétaire.",
         "imgSrc1": "assets/projects/5/1.png",
         "imgSrc2": "assets/projects/5/2.png",
-        "otherImgSrc": ["assets/projects/5/2.png", "assets/projects/5/3.png"],
-        "specs": {"type": "F4", "owner": "Privé", "client": "Particulier", "area": "300", "location": "Ouaga 2000"}
+        "otherImgSrc": ["assets/projects/5/2.png", "assets/projects/5/3.png", "assets/projects/5/3.png"],
+        "specs": {"type": "Villa", "owner": "Privé", "client": "Particulier", "area": "340m²", "location": "Ouaga 2000"}
     },
     {
         "id": 6,
-        "name": "Indian Culture Center",
+        "name": "Indian Cultural Center",
         "category": "Architecture",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar.",
+        "description": "L'indian cultural center est notre proposition primée lors de la consultation restreinte pour la construction du centre culturel indien à Rabat au Maroc. Il s'agit d'un projet mixte composé d'une salle de conférence au RDC, des salles de sport au sous sol 1, des parking au sous sol 2 ainsi que des résidences VIP du 1er au 4eme étage.",
         "imgSrc1": "assets/projects/6/1.png",
         "imgSrc2": "assets/projects/6/2.png",
         "otherImgSrc": ["assets/projects/6/2.png", "assets/projects/6/3.png", "assets/projects/6/4.png"],
-        "specs": {"type": "Culture Center", "owner": "Privé", "client": "Particulier", "area": "300", "location": "Dédougou"}
+        "specs": {"type": "Centre culturel", "owner": "Privé", "client": "Particulier", "area": "300m²", "location": "Rabat, Maroc"}
     },
     {
         "id": 7,
-        "name": "Ecole d'agriculture de Témara, Maroc",
-        "category": "Architecture",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar.",
+        "name": "Dortoirs école d'agriculture de Témara",
+        "category": "Concours",
+        "description": "Les dortoirs de l'école d'agriculture de Témara a été remporté dans le cadre d'une consultation en collaboration avec HIA Architecture. Le bloc est composé d'une salle de lecture, un refectoire et des chambres dortoirs doubles.",
         "imgSrc1": "assets/projects/7/1.png",
         "imgSrc2": "assets/projects/7/2.png",
         "otherImgSrc": ["assets/projects/7/2.png", "assets/projects/7/3.png", "assets/projects/7/4.png", "assets/projects/7/5.png", "assets/projects/7/6.png"],
-        "specs": {"type": "F4", "owner": "Privé", "client": "Particulier", "area": "300", "location": "Dédougou"}
+        "specs": {"type": "École", "owner": "Privé", "client": "Particulier", "area": "300m²", "location": "Témara, Maroc"}
     },
     {
         "id": 8,
-        "name": "Eglise Gampéla",
+        "name": "Église Gampéla",
         "category": "Architecture",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar.",
+        "description": "L'église de Gampéla s'inscrit dans la continuité d'un complexe scolaire situé à Gampela. Ledit complexe scolaire est composé de salles de cours, de dortoirs et d'un réfectoire.",
         "imgSrc1": "assets/projects/8/1.png",
         "imgSrc2": "assets/projects/8/2.png",
-        "otherImgSrc": ["assets/projects/8/1.png", "assets/projects/8/2.png"],
-        "specs": {"type": "Eglise", "owner": "Privé", "client": "Particulier", "area": "300", "location": "Dédougou"}
+        "otherImgSrc": ["assets/projects/8/1.png", "assets/projects/8/2.png", "assets/projects/8/2.png"],
+        "specs": {"type": "Église", "owner": "Privé", "client": "Particulier", "area": "300m²", "location": "Ouagadougou"}
     },
     {
         "id": 9,
-        "name": "Mr Ouédraogo, Particulier",
+        "name": "Villa pour particulier",
         "category": "Architecture",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar.",
+        "description": "C'est villa est la resultante d'un travail d'extension sur le plan vertical visant à exploiter au mieux la surface de la parcelle.",
         "imgSrc1": "assets/projects/9/1.png",
         "imgSrc2": "assets/projects/9/1.png",
-        "otherImgSrc": ["assets/projects/9/1.png", "assets/projects/9/1.png"],
-        "specs": {"type": "F4", "owner": "Privé", "client": "Particulier", "area": "300", "location": "Ouaga 2000"}
+        "otherImgSrc": ["assets/projects/9/1.png", "assets/projects/9/1.png", "assets/projects/9/1.png"],
+        "specs": {"type": "Villa", "owner": "Privé", "client": "Particulier", "area": "300m²", "location": "Ouagadougou"}
     },
     {
         "id": 10,
-        "name": "Niaoné Villa",
+        "name": "Villa pour particulier",
         "category": "Architecture",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar.",
+        "description": "Il s'agit de deux duplexes jumélés situés dans la zone de Ouaga 2000. Chacun d'eux dispose de deux places de parking, une piscine respectivement au niveau de la cour avant et arrière.",
         "imgSrc1": "assets/projects/10/1.png",
         "imgSrc2": "assets/projects/10/1.png",
-        "otherImgSrc": ["assets/projects/10/1.png", "assets/projects/10/1.png"],
-        "specs": {"type": "Architecture", "owner": "Privé", "client": "Particulier", "area": "300", "location": "Dédougou"}
+        "otherImgSrc": ["assets/projects/10/1.png", "assets/projects/10/1.png", "assets/projects/10/1.png"],
+        "specs": {"type": "Villas", "owner": "Privé", "client": "Particulier", "area": "340m²", "location": "Ouagadougou, Burkina Faso"}
     },
     {
         "id": 11,
-        "name": "Interior Naaba koom",
+        "name": "Salle Naaba koom",
         "category": "Design intérieur",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar.",
+        "description": "La salle Naaba Koom sité dans l'espace Dieudonné à longtemps été délaissé en etat de delabrement. Nous avons été approché par le promoteur pour proposer une decoration interieure avec des luminaires en vue de rehauser le niveau d'attractivité de cette salle.",
         "imgSrc1": "assets/projects/11/1.png",
         "imgSrc2": "assets/projects/11/1.png",
-        "otherImgSrc": ["assets/projects/11/1.png", "assets/projects/11/1.png"],
-        "specs": {"type": "Interior", "owner": "Privé", "client": "Particulier", "area": "300", "location": "Dédougou"}
+        "otherImgSrc": ["assets/projects/11/1.png", "assets/projects/11/1.png", "assets/projects/11/1.png"],
+        "specs": {"type": "Design intérieur", "owner": "Privé", "client": "Particulier", "area": "300m²", "location": "Ouagadougou"}
     },
     {
         "id": 12,
-        "name": "Desgin Market, Taip Said",
+        "name": "Desgin Market",
         "category": "Design intérieur",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar.",
+        "description": "Proposition de design intérieur d'un stand de commerce pour une startup.",
         "imgSrc1": "assets/projects/12/1.png",
         "imgSrc2": "assets/projects/12/1.png",
-        "otherImgSrc": ["assets/projects/12/1.png", "assets/projects/12/1.png"],
-        "specs": {"type": "Interior", "owner": "Privé", "client": "Particulier", "area": "300", "location": "Maroc"}
+        "otherImgSrc": ["assets/projects/12/1.png", "assets/projects/12/1.png", "assets/projects/12/1.png"],
+        "specs": {"type": "Design intérieur", "owner": "Privé", "client": "Particulier", "area": "30m²", "location": "Maroc"}
+    },
+    {
+        "id": 13,
+        "name": "École d'architecture de Marrakech",
+        "category": "Architecture",
+        "description": "Ce projet a reçu le 1er prix lors du concours d'architecture pour la construction l'école nationales d'architecture de Marrakech au Maroc.",
+        "imgSrc1": "assets/projects/13/1.png",
+        "imgSrc2": "assets/projects/13/1.png",
+        "otherImgSrc": ["assets/projects/13/1.png", "assets/projects/13/1.png", "assets/projects/13/1.png"],
+        "specs": {"type": "Concours", "owner": "Privé", "client": "Particulier", "area": "5ha", "location": "Marrakech, Maroc"}
     }
 ]
