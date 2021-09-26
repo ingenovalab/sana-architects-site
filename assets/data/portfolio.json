@@ -101,9 +101,9 @@
     },
     {
         "id": 11,
-        "name": "Salle Naaba koom",
+        "name": "Showroom de l'entreprise 2ES",
         "category": "Design intérieur",
-        "description": "La salle Naaba Koom sitée dans l'espace Dieudonné a longtemps été délaissée en etat de delabrement. Nous avons été approché par le promoteur pour proposer une decoration interieure avec des luminaires en vue de rehauser le niveau d'attractivité de cette salle.",
+        "description": "Dans le cadre de la mise en place d'une plateforme d'exposition de son matériel solaire, nous avons été approché par l'entreprise 2ES pour imaginer un showroom attractif, honorant la charte de couleur et ouvert sur l'extérieur grâce à de larges baies vitrées.",
         "imgSrc1": "assets/projects/11/1.png",
         "imgSrc2": "assets/projects/11/1.png",
         "otherImgSrc": ["assets/projects/11/1.png", "assets/projects/11/1.png", "assets/projects/11/1.png"],
@@ -111,7 +111,7 @@
     },
     {
         "id": 12,
-        "name": "Desgin Market",
+        "name": "Design Market",
         "category": "Design intérieur",
         "description": "Proposition de design intérieur d'un stand de commerce pour une startup.",
         "imgSrc1": "assets/projects/12/1.png",
@@ -128,5 +128,25 @@
         "imgSrc2": "assets/projects/13/1.png",
         "otherImgSrc": ["assets/projects/13/1.png", "assets/projects/13/1.png", "assets/projects/13/1.png"],
         "specs": {"type": "Concours", "owner": "Privé", "client": "Particulier", "area": "5ha", "location": "Marrakech, Maroc"}
+    },
+    {
+        "id": 14,
+        "name": "Salle Naaba koom",
+        "category": "Design intérieur",
+        "description": "La salle Naaba Koom sitée dans l'espace Dieudonné a longtemps été délaissée en etat de delabrement. Nous avons été approché par le promoteur pour proposer une decoration interieure avec des luminaires en vue de rehauser le niveau d'attractivité de cette salle.",
+        "imgSrc1": "assets/projects/14/1.jpg",
+        "imgSrc2": "assets/projects/14/1.jpg",
+        "otherImgSrc": ["assets/projects/14/1.jpg", "assets/projects/14/1.jpg", "assets/projects/14/1.jpg"],
+        "specs": {"type": "Design intérieur", "owner": "Privé", "client": "Particulier", "area": "300m²", "location": "Ouagadougou"}
+    },
+    {
+        "id": 15,
+        "name": "Bâtiment R+3 mixte",
+        "category": "Architecture",
+        "description": "Commerce en RDC, plateau bureau au premier étage et appartements en 2e et 3e étage.",
+        "imgSrc1": "assets/projects/15/1.jpeg",
+        "imgSrc2": "assets/projects/15/1.jpeg",
+        "otherImgSrc": ["assets/projects/15/1.jpeg", "assets/projects/15/1.jpeg", "assets/projects/15/1.jpeg"],
+        "specs": {"type": "Architecture", "owner": "Privé", "client": "Particulier", "area": "300m²", "location": "Ouagadougou"}
     }
 ]
