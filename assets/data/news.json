@@ -1,6 +1,14 @@
 [
     {
         "id": 1,
+        "title": "Prix PADEV Kigali 2022 - Rwanda",
+        "imgSrc": "assets/news/5.jpg",
+        "description": "SANA Architects est lauréat du PADEV (le Prix africain du Mérite et de l’Excellence), l’un des plateaux les plus prestigieux qui consacrent les hommes et les femmes qui font la fierté du continent Africain.",
+        "postedDate": "Vendredi, 20 Mai 2022",
+        "url": "https://www.facebook.com/SANA-Architects-110687596961408"
+    },
+    {
+        "id": 2,
         "title": "Prix du meilleur plan d'Architecte - Maroc",
         "imgSrc": "assets/news/1.jpg",
         "description": "S.A.N.A Architects est lauréat du concours d'architecture pour la construction l'école nationale d'architecture de Marrakech au Maroc.",
@@ -8,7 +16,7 @@
         "url": "https://lefaso.net/spip.php?article91900"
     },
     {
-        "id": 2,
+        "id": 3,
         "title": "Que deviendra l’aéroport actuel après sa délocalisation à Donsin?",
         "imgSrc": "assets/news/2.jpg",
         "description": "S.A.N.A Architects réponds au Faso.net et donne son avis.",
@@ -16,10 +24,10 @@
         "url": "https://lefaso.net/spip.php?article103904"
     },
     {
-        "id": 3,
-        "title": "Réalisations d’infrastructures routières : la Main de SANKARA pour désengorger la circulation à tanghin",
+        "id": 4,
+        "title": "Réalisations d’infrastructures routières : la Main de SANKARA pour désengorger la circulation à Tanghin",
         "imgSrc": "assets/news/4.jpg",
-        "description": "En raison du paysage écologique du barrage de Tanghin, le projet de construction d’un 3e pont à Tanghin constitue une plus-value pour les usagers de cette route. A cet effet, le PDG de S.A.N.A Architects donne son avis sur filinfos.net, sur ce projet dénommé « La Main de SANKARA ».",
+        "description": "En raison du paysage écologique du barrage de Tanghin, le projet de construction d’un 3e pont à Tanghin constitue une plus-value pour les usagers de cette route. A cet effet, le PDG de S.A.N.A Architects donne son avis sur filinfos.net sur ce projet dénommé « La Main de SANKARA ».",
         "postedDate": "Mardi, 12 Octobre 2021",
         "url": "https://filinfos.net/2021/10/12/realisations-dinfrastructures-routieres-la-main-de-sankara-pour-desengorger-la-circulation-a-tanghin/"
     }
